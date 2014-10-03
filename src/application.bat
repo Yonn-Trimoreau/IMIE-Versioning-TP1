@@ -1,4 +1,4 @@
-### application.bat - 2015 - Yonn Trimoreau ###
+### application.bat - 2015 - Yonn Trimoreau , Matthieu Ha###
 version = "2"
 build_hour = "11H00"
 
