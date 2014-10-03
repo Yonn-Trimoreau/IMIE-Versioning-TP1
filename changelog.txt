@@ -1,0 +1,4 @@
+1d87c1b display copyright
+7ea5b70 Add file header
+6d6116b Add build time
+7f9d18b Initial commit
