@@ -1,4 +1,4 @@
 ### application.bat - 2015 - Yonn Trimoreau ###
-echo "version 1.2"
+echo "version 1.2.1"
 echo "Copyright company - 2015"
 echo "Build : 10:00"
